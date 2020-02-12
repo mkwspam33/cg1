@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.CG1</api_name>
+        <caller_access/>
+        <claim/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>CG1</name>
+        <script><![CDATA[var CG1 = Class.create();
+CG1.prototype = {
+    initialize: function() {
+    },
+
+    type: 'CG1'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-12 19:24:59</sys_created_on>
+        <sys_id>ca3f3be777720010ca3ab5b2681061ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CG1</sys_name>
+        <sys_package display_value="C Global1" source="b1446b2b77320010ca3ab5b268106120">b1446b2b77320010ca3ab5b268106120</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="C Global1">b1446b2b77320010ca3ab5b268106120</sys_scope>
+        <sys_update_name>sys_script_include_ca3f3be777720010ca3ab5b2681061ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-12 19:24:59</sys_updated_on>
+    </sys_script_include>
+</record_update>
