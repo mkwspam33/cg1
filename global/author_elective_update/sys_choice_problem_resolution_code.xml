@@ -12,7 +12,7 @@
             <sys_created_by>system</sys_created_by>
             <sys_created_on>2020-01-30 00:54:11</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path/>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>6c54cddbfc6600100ed875a20f0786e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>system</sys_updated_by>
@@ -31,7 +31,7 @@
             <sys_created_by>system</sys_created_by>
             <sys_created_on>2020-01-30 00:54:11</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path/>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>ac54cddbfc6600100ed875a20f0786e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>system</sys_updated_by>
@@ -50,7 +50,7 @@
             <sys_created_by>system</sys_created_by>
             <sys_created_on>2020-01-30 00:54:11</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path/>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>ec54cddbfc6600100ed875a20f0786e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>system</sys_updated_by>
@@ -69,7 +69,7 @@
             <sys_created_by>system</sys_created_by>
             <sys_created_on>2020-01-30 00:54:11</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path/>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>2054cddbfc6600100ed875a20f0786e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>system</sys_updated_by>
@@ -83,7 +83,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>system</sys_created_by>
             <sys_created_on>2020-01-30 00:54:11</sys_created_on>
-            <sys_id>2454cddbfc6600100ed875a20f0786e2</sys_id>
+            <sys_id>fa4c444a77470010ca3ab5b268106100</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_name>resolution_code</sys_name>
             <sys_package display_value="C Global1" source="b1446b2b77320010ca3ab5b268106120">b1446b2b77320010ca3ab5b268106120</sys_package>

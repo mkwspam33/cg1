@@ -64,6 +64,7 @@
                 <element dependent_value="network" inactive_on_update="false" label="Wireless" value="wireless"/>
             </choice>
         </element>
+        <element label="PrbSTR1" max_length="40" name="u_prbstr1" type="string"/>
         <element label="Workaround" max_length="65536" name="workaround" type="html"/>
         <element label="Workaround applied" max_length="40" name="workaround_applied" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Workaround communicated" max_length="40" name="workaround_communicated_at" read_only="true" type="glide_date_time"/>
