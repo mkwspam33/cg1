@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="HaloTable" max_length="40" name="u_halotable" type="collection">
+        <element label="HaloInt" max_length="40" name="u_haloint" type="integer"/>
+        <element label="HaloStr" max_length="40" name="u_halostr" type="string"/>
+    </element>
+</database>
